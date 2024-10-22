@@ -30,7 +30,7 @@ export default defineAppConfig({
       fluid: true
     },
     header: {
-      logo: true,
+      logo: false,
       title: 'CodeGiggles',
       showLinkIcon: true,
       exclude: [],

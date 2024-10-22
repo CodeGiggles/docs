@@ -1,57 +1,89 @@
-# Docus Starter
+# 🎮 Welcome to CodeGiggles Docs! 
 
-Starter template for [Docus](https://docus.dev).
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Clone
+> Making coding fun, one document at a time! 🎯
 
-Clone the repository (using `nuxi`):
+## 🌟 About The Project
 
+CodeGiggles/docs adalah tempat di mana kita mengumpulkan dan berbagi pengetahuan tentang pemrograman dengan cara yang menyenangkan dan mudah dipahami. Repo ini bertujuan untuk:
+
+- 📚 Menyediakan dokumentasi yang berkualitas
+- 🎨 Membuat pembelajaran coding lebih menarik
+- 🤝 Membangun komunitas yang kolaboratif
+- 🚀 Membantu developer berkembang bersama
+
+## 🎯 How to Contribute
+
+Kami sangat menghargai kontribusi Anda! Berikut adalah cara untuk mulai berkontribusi:
+
+### 1. 🍴 Fork & Clone
 ```bash
-npx nuxi init -t themes/docus
+# Fork repo ini melalui GitHub
+# Kemudian clone repo Anda
+git clone https://github.com/YOUR-USERNAME/docs.git
+cd docs
 ```
 
-## Setup
-
-Install dependencies:
-
+### 2. 🛠️ Setup Project
 ```bash
-yarn install
+# Buat branch baru
+git checkout -b feature/AmazingFeature
+
+# Lakukan perubahan Anda
+# Tambahkan dan commit perubahan
+git add .
+git commit -m "✨ Add some AmazingFeature"
 ```
 
-## Development
-
+### 3. 🚀 Submit Kontribusi
 ```bash
-yarn dev
+# Push ke branch
+git push origin feature/AmazingFeature
 ```
+Kemudian buat Pull Request melalui GitHub!
 
-## Edge Side Rendering
+## 📝 Panduan Kontribusi
 
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
+### Jenis Kontribusi yang Diterima
+- 📖 Dokumentasi baru
+- 🔍 Perbaikan typo
+- 🎨 Peningkatan format
+- 🌟 Tutorial dan panduan
+- 🐛 Perbaikan bug
+- ✨ Fitur baru
 
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
+### Style Guide
+- Gunakan Markdown untuk formatting
+- Tambahkan contoh kode bila diperlukan
+- Sertakan screenshot jika membantu penjelasan
+- Pastikan penulisan rapi dan konsisten
 
-```bash
-yarn build
-```
+## 🎭 Code of Conduct
 
-## Static Generation
+Kami berkomitmen untuk menyediakan lingkungan yang ramah dan inklusif bagi semua kontributor. Silakan baca [Code of Conduct](CODE_OF_CONDUCT.md) kami.
 
-Use the `generate` command to build your application.
+## 📄 License
 
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
-```bash
-yarn generate
-```
+## 🙏 Acknowledgments
 
-## Preview build
+Terima kasih kepada semua kontributor yang telah membantu mengembangkan proyek ini!
 
-You might want to preview the result of your build locally, to do so, run the following command:
+- 👥 Komunitas CodeGiggles
+- 🌟 Para kontributor
+- 💡 Semua yang memberikan feedback
 
-```bash
-yarn preview
-```
+## 📬 Contact
+
+CodeGiggles Team - [@CodeGiggles](https://twitter.com/CodeGiggles)
+
+Project Link: [https://github.com/CodeGiggles/docs](https://github.com/CodeGiggles/docs)
 
 ---
 
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
+<div align="center">
+Made with ❤️ by CodeGiggles Community
+</div>
