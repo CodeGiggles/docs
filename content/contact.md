@@ -1,4 +1,4 @@
-# 📞 Contact Us - CodeGiggles
+# 📞 Contact
 
 ## 🌟 Let's Connect!
 
