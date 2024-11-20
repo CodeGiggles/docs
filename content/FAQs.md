@@ -1,4 +1,4 @@
-# 🎉 FAQs - CodeGiggles Programming Docs
+# 🎉 FAQs
 
 ## 🔍 1. Apa itu CodeGiggles?
 CodeGiggles adalah tempat buat lo yang mau belajar programming dari dasar sampai jago. Kita punya dokumentasi keren dengan materi lengkap buat Frontend, Backend, dan Mobile Development. Santai aja, belajar di sini sambil seru-seruan!
