@@ -1,4 +1,4 @@
-# 🚀 About CodeGiggles
+# 🚀 About
 
 ## 🌟 Our Story
 
