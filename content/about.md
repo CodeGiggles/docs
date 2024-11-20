@@ -58,7 +58,7 @@ Selalu update dengan teknologi terbaru.
 * **CEO & Founder**: Akhmad Fauzi
 * **CTO**: Fairuz Ikbar
 * **Head of Content**: Jhon Doe
-* **Community Lead**: Kevin
+* **Community Lead**: Vincent
 
 ### 🚀 Core Team
 * 15+ Dedicated Developers
