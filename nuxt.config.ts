@@ -1,3 +1,5 @@
+import { clear } from "console";
+
 export default defineNuxtConfig({
   // https://github.com/nuxt-themes/docus
   extends: ["@nuxt-themes/docus"],
@@ -11,4 +13,4 @@ export default defineNuxtConfig({
   ],
 
   compatibilityDate: "2024-10-22",
-});
+});clear
