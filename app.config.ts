@@ -3,7 +3,7 @@ export default defineAppConfig({
   docus: {
     title: "Codegiggles Docs",
     description: "Belajar programming bareng codegiggles.",
-    image: "cover.png",
+    image: "/cover.png",
     socials: {
       twitter: "#",
       github: "https://github.com/CodeGiggles",
