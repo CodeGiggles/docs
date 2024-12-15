@@ -1,38 +1,74 @@
 # 📞 Contact
 
-## 🌟 Let's Connect!
+> CodeGiggles siap terhubung dengan lo! Mau tanya-tanya, butuh bantuan, atau jalin kerjasama? Kita ada di sini buat bantu lo kapan aja!
 
-### 📧 Email
-* General Inquiries: hello@codegiggles.com
-* Support: support@codegiggles.com
-* Business: business@codegiggles.com
 
-### 💬 Social Media
-* [Instagram](https://www.instagram.com/codegiggles?igsh=bW0wdm5wZnhobWd0) - @codegiggles
-* [Twitter/X](#) - @codegiggles
-* [YouTube](https://youtube.com/@codegigles?si=nSkmM2Y_F0d_hBiK)
 
-### 👥 Community
-* [Discord Server](#)
-* [Telegram Group](https://t.me/codegigglesX)
-* [GitHub](https://github.com/CodeGiggles)
+::alert{type="info"} 
+Lo butuh info lebih lanjut atau support langsung? Jangan ragu untuk reach out ke kita. Kita siap sedia! 
+::
+
+## 💬 How to Reach Us
+
+::card-grid{columns=2 class="gap-4"} 
+#title 
+::card{icon="📧"} 
+#title 
+Email 
+#description
+General Inquiries: hello@codegiggles.com | 
+Support: support@codegiggles.com | 
+Business: business@codegiggles.com 
+:: 
+::card{icon="💬"} 
+#title 
+Social Media 
+#description
+[Instagram](https://www.instagram.com/codegiggles/) |
+[Tiktok](https://www.tiktok.com/@codegiggles?_t=ZS-8sE45W8ekaN&_r=1) |
+[YouTube](https://youtube.com/@codegigles?si=c-HziEbDSRYmEwlX) |
+:: 
+::
+
+
+## 👥 Join Our Community
+
+::list{type="success"}
+- **Discord Server:** Gabung untuk ngobrol dan support langsung dari komunitas!
+- **Telegram Group:** Join us here
+- **GitHub:** Explore our code 
+::
+
 
 ## ⏰ Operating Hours
-Monday - Friday: 09:00 - 18:00 WIB  
-Weekend: By appointment only
+
+::list{type="success"}
+- Senin - Jumat: 09:00 - 18:00 WIB
+- Weekend: By appointment only 
+::
+
 
 ## 🚀 Quick Response Time
-* Email: Within 24 hours
-* Social Media: Within 6 hours
-* Community channels: Within 2 hours
+
+::list{type="success"}
+- Email: Biasanya dalam 24 jam
+- Social Media: Biasanya dalam 6 jam
+- Community Channels: Biasanya dalam 2 jam 
+::
+
 
 ## 💡 Get Involved
-Want to contribute or partner with us?
-1. Check our [Contribution Guidelines](#)
-2. Join our [Discord](#) community
-3. Follow our social media for latest updates
 
-> 💪 **We're always excited to hear from fellow developers and tech enthusiasts!**
+Pengen kontribusi atau kerjasama sama kita?
 
----
-*Need immediate assistance? Join our Discord server for real-time support from our community!*
+1. Cek Contribution Guidelines
+
+
+2. Gabung di Discord
+
+
+3. Follow social media kita buat update terbaru!
+
+
+
+> 💪 Kami selalu excited denger dari fellow developers dan tech enthusiasts yang pengen berkembang bareng!
