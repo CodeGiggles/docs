@@ -1,58 +1,177 @@
-# 🎉 FAQs
+# 🎉 FAQ
 
-## 🔍 1. Apa itu CodeGiggles?
-CodeGiggles adalah tempat buat lo yang mau belajar programming dari dasar sampai jago. Kita punya dokumentasi keren dengan materi lengkap buat Frontend, Backend, dan Mobile Development. Santai aja, belajar di sini sambil seru-seruan!
+## 🔍 Apa itu CodeGiggles?
+  CodeGiggles adalah platform learning coding keren yang dirancang buat lo yang mau belajar programming dari nol sampai jago! 
 
-## 🎯 2. Siapa yang Cocok Pakai Ini?
-Gak peduli lo newbie, developer freelance, atau full-stack warrior, dokumentasi ini buat semua orang. Kalau lo suka coding dan mau nambah ilmu, di sini tempatnya!
+  **`Highlights:`**
+  - Dokumentasi lengkap dan mendalam
+  - Materi komprehensif untuk Frontend, Backend, dan Mobile Development
+  - Belajar coding sambil seru-seruan! 🚀
 
-## 🚀 3. Gimana Cara Mulai?
-1. Pilih Stack yang mau lo pelajari (Frontend/Backend/Mobile)
-2. Ikuti Modul sesuai yang tersedia, step-by-step
-3. Kerjain project buat latihan skill lo langsung
+ ## 🎯 Siapa yang Cocok Pakai CodeGiggles?
+  - 🆕 Newbie yang baru mulai coding
+  - 💼 Developer freelance yang mau upgrade skill
+  - 🏆 Full-stack warrior yang cari tantangan baru
 
-> 🔥 **Mudah dan asik, kan?**
+  ::alert{type="success"}
+    **Intinya:** Kalau lo suka coding dan mau nambah ilmu, CodeGiggles adalah tempatnya! 💡
+  ::
 
-## 💡 4. Ada Proyek Contoh?
-Yes, ada banyak! Dari mini-project buat pemula, sampai project kompleks yang bikin otak lo makin tajam. Biar belajarnya makin nempel!
+ ## 🚀 Gimana Cara Mulai?
+  ::alert{type="info"}
+  1. **Pilih Stack Teknologi**
+     Tentukan bidang yang mau lo pelajari (`Frontend`/`Backend`/`Mobile`)
 
-## 💻 5. Apa Saja Teknologi yang Di-cover?
-| Area | Teknologi |
-|------|-----------|
-| Frontend | HTML, CSS, JS, React, dll |
-| Backend | Node.js, TypeScript, dll |
-| Mobile | Native app pakai Kotlin |
+  2. **Ikuti Modul Terstruktur**
+     Materi disusun step-by-step, gak bakal bingung!
 
-## 💸 6. Gratis Gak?
-**Sebagian besar konten di sini bisa lo akses secara GRATIS!** Ada beberapa konten premium juga yang lebih advanced, buat lo yang serius mau leveling up.
+  3. **Praktekkan Lewat Proyek**
+     Langsung implement skill lo lewat project nyata
+  ::
 
-## 🤝 7. Cara Kontribusi?
-Mau bantu improve? Keren banget!
-* Buka repo GitHub CodeGiggles
-* Lakukan pull request kalau ada tambahan, atau buka issue kalau nemu masalah
+  > 🔥 **Mudah dan asik, kan?**
 
-## 🐛 8. Ada Bug?
-Kalau nemu error atau typo, lo bisa:
-1. Laporin via Issues di GitHub
-2. Atau langsung submit pull request kalau tahu solusinya
+## 💡 Ada Proyek Contoh?
+  ::alert{type="info"}
+    **Definitely!** Kami punya berbagai proyek keren:
+  ::
 
-> **We're all ears!**
+  ::card{icon="🧩"}
+  #title
+  Mini Project
+  #description
+  - Perfect buat pemula
+  - Membangun fondasi skill
+  ::
 
-## 💬 9. Ada Komunitas?
-Yap! Join di komunitas Telegram atau Discord kita buat:
-* Diskusi
-* Sharing tips & tricks
-* Ngobrol santai soal dunia coding
+  ::card{icon="🏗"}
+  #title
+  Kompleks Project
+  #description
+  - Menantang kemampuan lo
+  - Simulasi real-world scenario
+  ::
 
-## 👩‍🏫 10. Bisa Dapat Mentor?
-Beberapa konten premium ada layanan mentoring khusus. Stay tuned buat update dan program mentoring eksklusif!
+  ::alert{type="success"}
+    Dari project sederhana sampai yang bikin otak lo makin tajam! 💪
+  ::
 
-## 📧 11. Kontak Tim CodeGiggles?
-Reach out langsung ke:
-* 📨 support@codegiggles.com 
-* 📱 DM di medsos kita
+ ## 💻 Teknologi yang Di-cover
+  ::table
+  | Area Development | Teknologi yang Tersedia |
+  |-----------------|------------------------|
+  | Frontend | HTML, CSS, JavaScript, React, Vue.js |
+  | Backend | Node.js, TypeScript, Python, Go |
+  | Mobile | Kotlin, Swift, React Native |
+  ::
 
-**Kita selalu buka buat diskusi!**
+## 💸 Gratis Atau Berbayar?
+    
+::card{icon="🆓"}
+#title
+Konten Gratis
+#description
+- Tutorial dasar komprehensif
+- Sumber belajar open-source
+- Materi fundamental
+::
+
+::card{icon="💎"}
+#title
+Konten Premium
+#description
+- Kelas video lanjutan
+- Mentoring personal
+- Proyek eksklusif
+::
+
+::alert{type="info"}
+**Sebagian besar konten GRATIS!** Ada pilihan premium buat lo yang mau level up super cepat. 🚀
+::
+
+## 🤝 Cara Kontribusi
+
+  ::steps
+  1. **Fork Repo GitHub**
+     Buka repository CodeGiggles
+
+  2. **Kirim Kontribusi**
+     - Tambahkan materi baru
+     - Perbaiki dokumentasi
+     - Laporkan issue
+  ::
+
+  > *Setiap kontribusi berarti!* 💖
+
+## 🐛 Nemuin Bug?
+::card-grid
+#title
+Report
+
+#root
+:ellipsis
+
+#default
+  ::card{icon="🔍"}
+  #title
+  Laporkan Issue.
+  #description
+  Buka issues di GitHub dengan detail lengkap.
+  ::
+  
+  ::card{icon="🛠"}
+  #title
+  Submit Pull Request.
+  #description
+  Langsung kasih solusi kalau punya cara perbaikan.
+  ::
+::
+
+  > **We're all ears!** Feedback lo sangat berarti. 👂
+
+## 💬 Komunitas
+
+::card
+#title
+💬 Discord
+#description
+- Diskusi real-time
+- Sharing knowledge
+::
+
+::card
+#title
+📱 Telegram
+#description
+- Tips & tricks
+- Networking developer
+::
+
+::alert{type="success"}
+  Ngobrol santai, sharing pengalaman, dan nambah koneksi! 🤝
+::
+
+## 👩‍🏫 Bisa Dapat Mentor?
+  ::callout{type="success"}
+  #summary
+  **Program Mentoring Tersedia!**
+  #content
+    - Mentor berpengalangan
+    - Sesi 1-on-1
+    - Guidance personal
+  ::
+
+  ::alert{type="info"}
+    Beberapa konten premium punya akses mentoring eksklusif. Stay tuned! 🌟
+  ::
+
+## 📧 Kontak Tim
+  **Hubungi Kami:**
+  - 📨 Email: support@codegiggles.com
+  - 💬 Social Media DM
+  - 🌐 Formulir kontak di website
+
+  *Kita selalu siap bantu!* 💕
 
 ---
-*Last updated: 2024*
+*Last Updated: December 2024* • :badge[*v2.0*]
